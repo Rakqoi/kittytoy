@@ -1,1 +1,1 @@
-# kittytoy-pages
+# kittytoy
